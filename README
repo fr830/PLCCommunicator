@@ -1,1 +1,1 @@
-test
+This program communicates with a PLC and dumps the data into a SQL Server Database
